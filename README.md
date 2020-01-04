@@ -1,6 +1,6 @@
 # Code 201 Reading Notes
 
-Section of GitHub to take daily reading notes for Code 201.
+*Section of GitHub to take daily reading notes for Code 201.*
 
 ### Reading 1
 
