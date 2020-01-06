@@ -3,11 +3,11 @@
 *Section of GitHub to take daily reading notes for Code 201.*
 
 ### Reading 1
-  class-01.md
-    Terms 'tag' and 'element' are often used interchangeably.
-    HTML pages are text documents. 
-    Opening tags can carry attributes (name and Value)
-    Current version is HTML5
+  [reading1](class-01.md)
+   ** Terms 'tag' and 'element' are often used interchangeably.
+   ** HTML pages are text documents. 
+   ** Opening tags can carry attributes (name and Value)
+   ** Current version is HTML5
 
 ### Reading 2
 
