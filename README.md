@@ -4,7 +4,6 @@
 
 ### Reading 1
   [reading1](class-01.md)
-  
 
 ### Reading 2
   [reading2](class-02.md)
