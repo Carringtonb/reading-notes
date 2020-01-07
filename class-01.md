@@ -7,7 +7,7 @@
 * Current version is HTML5
 
 ## Chapter 8: Extra Markup
-* You can add comments into html with <!-- -->
+* You can add comments into html with `<!-- -->`
 * ID and class attributes allow you to identify particular markers
 * inframes is a command to cut windows into your web pages
 * meta tags allow to supply additional information about your web page
