@@ -13,7 +13,7 @@
 * CSS associates style rules with HTML elements
 * CSS properties affect how elements are displayed
 * You can link to external CSS, the link should use 3 attributes; href, type, and rel.
-* You can also use CSS inside an HTML file by utilizing a <style> element inside the <head> element.
+* You can also use CSS inside an HTML file by utilizing a `<style>` element inside the `<head>` element.
 * Value of font-family properties are inherited by child elements.
 
 # JavaScript and JQUERY
