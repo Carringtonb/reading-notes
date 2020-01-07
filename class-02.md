@@ -5,7 +5,7 @@
 * <sup> and <sub> elements can be used to superscript and subscript
 * White space is an option to make code more clean. Adding multiple spaces will show up in code editor but will be rendered as a single space
 * Dreamweaver is an option for a HTML editor
-* Other elements that can be used include <address> <ins> <del> and <s>
+* Other elements that can be used include address ins del and s
 
 
 ### Chapter 10: Introducing CSS
@@ -50,4 +50,3 @@
     * For loops : runs a code a specific number of times.
     * While loops : The code will continue to loop for as long as the condition is *true*.
     * Do While loops : Do...While loops are similar to While loops, other than they will always run the statement at least once, even if the condition evaluates to *false*.
-    
