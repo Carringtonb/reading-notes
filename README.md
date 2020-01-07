@@ -4,12 +4,9 @@
 
 ### Reading 1
   [reading1](class-01.md)
-   * Terms 'tag' and 'element' are often used interchangeably.
-   * HTML pages are text documents. 
-   * Opening tags can carry attributes (name and Value)
-   * Current version is HTML5
 
 ### Reading 2
+  [reading2](class-02.md)
 
 ### Reading 3
 
