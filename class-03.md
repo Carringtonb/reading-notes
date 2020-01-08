@@ -3,7 +3,7 @@
 ### Chapter 3: Lists
 
 * Lists can be either ordered `<ol>` or unordered `<ul>`.
-* Items contained inside thoses lists are writtin with `<li>` tags.
+* Items contained inside those lists are written with `<li>` tags.
 * Definition lists `<dl>` can also be used. They will contain a `<dt>` tag for the *term* to be defined, and a `<dd>` tag for the *definition*.
 * Lists can also be **nested** within other lists.
 
@@ -12,8 +12,8 @@
 * Box dimensions can be set using height and width. The most common ways to specify size is pixels, percentages, or ems.
 * You can also limit sizes with min-width/max-width and min-height/max-height.
 * Every box has 3 available properties that can be adjusted to control its appearance
-    * Border : Seperates the edge of once box to another
-    * Margin : Create a gap betweeen the borders of two adjacent boxes.
+    * Border : Separates the edge of once box to another
+    * Margin : Create a gap between the borders of two adjacent boxes.
     * Padding : Space between the border of a box and any content contained within it.
 * Borders can be styled in 3 different ways
     * border-width
