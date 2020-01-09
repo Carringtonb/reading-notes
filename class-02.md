@@ -2,7 +2,7 @@
 
 ### Chapter 2: Text
 
-* <sup> and <sub> elements can be used to superscript and subscript
+* `<sup>` and `<sub>` elements can be used to superscript and subscript
 * White space is an option to make code more clean. Adding multiple spaces will show up in code editor but will be rendered as a single space
 * Dreamweaver is an option for a HTML editor
 * Other elements that can be used include address `<ins>` `<del>` and `<s>`
