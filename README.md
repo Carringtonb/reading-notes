@@ -12,11 +12,13 @@
   [reading3](class-03.md)
 
 ### Reading 4
-[reading4](class-04.md)
+  [reading4](class-04.md)
 
 ### Reading 5
+  [reading5](class-05.md)
 
 ### Reading 6
+  [reading6](class-06.md)
 
 ### Reading 7
 
