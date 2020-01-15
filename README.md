@@ -21,9 +21,10 @@
   [reading6](class-06.md)
 
 ### Reading 7
-  [reading7](class-06.md)
+  [reading7](class-07.md)
 
 ### Reading 8
+  [reading8](class-09.md)
 
 ### Reading 9
 
