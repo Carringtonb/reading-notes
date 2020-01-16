@@ -27,6 +27,7 @@
   [reading8](class-09.md)
 
 ### Reading 9
+  [reading9](class-08.md)
 
 ### Reading 10
 
