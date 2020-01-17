@@ -31,6 +31,8 @@
 
 ### Reading 10
 
+  [reading10](class-10.md)
+  
 ### Reading 11
 
 ### Reading 12
