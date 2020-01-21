@@ -37,6 +37,7 @@
 
 ### Reading 12
 
+  [reading12](class-12.md)
 ### Reading 13
 
 ### Reading 14
