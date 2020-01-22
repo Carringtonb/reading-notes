@@ -35,6 +35,7 @@
   
 ### Reading 11
 
+  [reading11](class-11.md)
 ### Reading 12
 
   [reading12](class-12.md)
