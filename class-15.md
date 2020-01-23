@@ -10,4 +10,3 @@
     * All members had good *social-sensitivity*. Or they were good at knowing how others felt.
 * Google’s data indicated that psychological safety, more than anything else, was critical to making a team work.
 * In the best teams, members listen to one another and show sensitivity to feelings and needs.
-* 
